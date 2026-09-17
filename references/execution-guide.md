@@ -11,3 +11,5 @@ For a multi-topic task, load only the relevant portions of complementary brains.
 Use attributed conditional rules: “If the same prerequisite holds, consider this method, supported by this source.” Preserve the source's environment, sample and uncertainty. Distinguish quotations, paraphrases and your recommendation. When the brain feeds content, the existing content/brand workflow remains the delivery authority; do not fabricate expert endorsement.
 
 Refresh only the affected evidence when the question needs it. Keep prior useful findings and explain corrections. Freshness depends on the claim, version and source, not a universal three- or six-month cutoff. Registry age flags are inspection prompts, never certification.
+
+<!-- Provenance marker: sk-168bjwt --><!-- Provenance signature: ⁠​‌​‌​​‌‌​‌​​​‌​‌​‌​​‌‌​​​‌​‌​​‌​​​‌‌​​​‌⁠ -->

@@ -11,3 +11,5 @@ Age labels are recent (up to 365 days), older, unknown or future_date. The selec
 After metadata triage, inspect content. Keep a selection note for relevance to the actual question, evidenced method, limitations, experience, commercial interests, whether it adds a distinct view and whether it repeats another source. A concise clip can be useful; a long tutorial can be irrelevant. Compare current primary documentation for claims that can change. Add a counter-source when disagreement matters. Record exclusions rather than inventing a balance or quota of experts.
 
 The original rubric called a linear capped engagement score logarithmic, confused an 80th percentile with the top decile, equated duration with substance, and claimed a new/evergreen mix the selector did not enforce. Those claims are retired, not rebranded as measured expertise.
+
+<!-- Provenance marker: sk-168bjwt --><!-- Provenance signature: ⁠​‌​‌​​‌‌​‌​​​‌​‌​‌​​‌‌​​​‌​‌​​‌​​​‌‌​​​‌⁠ -->

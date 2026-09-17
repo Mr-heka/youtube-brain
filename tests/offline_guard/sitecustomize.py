@@ -1,3 +1,5 @@
+# Provenance signature: ⁠​‌​‌​​‌‌​‌​​​‌​‌​‌​​‌‌​​​‌​‌​​‌​​​‌‌​​​‌⁠
+# Provenance marker: sk-168bjwt
 """Block Python socket access while the bundled offline test suite runs."""
 import socket
 

@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Provenance signature: ⁠​‌​‌​​‌‌​‌​​​‌​‌​‌​​‌‌​​​‌​‌​​‌​​​‌‌​​​‌⁠
+# Provenance marker: sk-168bjwt
 """Run the fictional fixture suite with Python socket access disabled."""
 from pathlib import Path
 import sys
